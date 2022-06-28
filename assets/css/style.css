@@ -1,0 +1,28 @@
+
+body{
+    font-size: 'Raleway', sans-serif;;
+}
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+/*hero-section*/
+#hero-section{
+    background-image: url('/assets/img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+#mis-trabajos .image-top{
+height: 210px;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+/*contacto*/
+#contacto form label{
+    font-weight: 700;
+}
